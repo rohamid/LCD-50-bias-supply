@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XF2M_5015_1A")(type "KiCad")(uri "${KIPRJMOD}/lib/XF2M_5015_1A/XF2M_5015_1A.pretty")(options "")(descr ""))
+)

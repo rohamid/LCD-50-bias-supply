@@ -1,0 +1,33 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.1*%
+%TF.CreationDate,2025-04-23T14:31:23+07:00*%
+%TF.ProjectId,LCD-50-bias-supply,4c43442d-3530-42d6-9269-61732d737570,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX45Y45*%
+G04 Gerber Fmt 4.5, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.1) date 2025-04-23 14:31:23*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,4.000000*%
+%ADD11C,2.340000*%
+%ADD12R,1.700000X1.700000*%
+%ADD13C,1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,RV1*%
+X16759460Y-11666220D03*
+D11*
+X17009460Y-12166220D03*
+X16759460Y-11166220D03*
+X16509460Y-12166220D03*
+%TD*%
+D12*
+%TO.C,J4*%
+X14406920Y-12352020D03*
+D13*
+X14660920Y-12352020D03*
+%TD*%
+M02*
