@@ -187,7 +187,7 @@
       "description": "",
       "id": "02587bb1-b53e-4be6-b46e-119d722d9495",
       "only": [
-        "2a190f97-a78c-4ded-a1b5-7aa68556f604"
+        "eab5a6f4-7d52-481a-a1b9-0974b7fdfb4b"
       ],
       "settings": {
         "output_path": "C:\\Users\\user\\Documents\\Kicad_project\\STM32\\LCD-50-bias-supply\\fabrication\\"
